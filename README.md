@@ -7,6 +7,3 @@ The libraries required for running the code are :
 2. Pytorch-Geometric
 3. Pytorch
 4. RDKit
-5.tqdm
-Other dependencies can be found in the readme.
-For any issues kindly feel free to contact the authors
